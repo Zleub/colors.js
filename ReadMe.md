@@ -53,6 +53,9 @@
   - trap
   - random
 
+### extended
+
+![extended_colors](https://raw.githubusercontent.com/Zleub/colors.js/master/extended_colors.png)
 
 ## Usage
 
